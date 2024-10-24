@@ -1,1 +1,1 @@
-# -prophet-challenge
+# prophet-challenge
